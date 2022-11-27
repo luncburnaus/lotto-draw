@@ -1,4 +1,4 @@
-﻿//The following sample uses the Cryptography class to coduct the ticket draw for lunc burn aus lotto
+﻿//The following program uses the Cryptography class to coduct the ticket draw for lunc burn aus lotto
 
 using System;
 using System.IO;
